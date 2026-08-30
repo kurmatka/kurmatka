@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Kirill 👋
 
-<!--
-**kurmatka/kurmatka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Development student
 
-Here are some ideas to get you started:
+### 🛠️ I'm learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+### 🚀 About me
+
+I'm currently studying software development
+and building my first projects.
+
+### 📂 Projects
+
+More projects coming soon...
