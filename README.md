@@ -1,20 +1,15 @@
-# Hi, I'm Kirill 👋
+Hi, I'm Kirill 👋
 
-💻 Software Development student
+💻 Software Development student from Saint Petersburg.
 
-### 🛠️ I'm learning
+🛠️ Currently learning
 
-- Python
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+Python, HTML, CSS, JavaScript
 
-### 🚀 About me
+🚀 Goals
 
-I'm currently studying software development
-and building my first projects.
+Build real projects, improve my programming skills and get my first developer job.
 
-### 📂 Projects
+📂 My projects
 
-More projects coming soon...
+Coming soon...
